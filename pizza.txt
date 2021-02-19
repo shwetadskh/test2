@@ -1,0 +1,5 @@
+
+1) order pizza online
+2) select pizza
+3) pay online
+4)deliver at home
